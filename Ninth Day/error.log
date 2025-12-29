@@ -1,0 +1,5 @@
+29-12-2025 13:00:56 | DivideByZeroException | Attempted to divide by zero.
+29-12-2025 14:11:55 | DivideByZeroException | Attempted to divide by zero.
+29-12-2025 14:12:04 | DivideByZeroException | Attempted to divide by zero.
+29-12-2025 14:12:36 | FileNotFoundException | Could not find file 'C:\Users\Aryan\Desktop\c#\steambuzz\account.txt'.
+29-12-2025 14:15:13 | InsufficientBalanceException | insufficent Balance
